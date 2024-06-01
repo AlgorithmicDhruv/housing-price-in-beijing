@@ -48,7 +48,7 @@ The trained Random Forest model was exported using `pickle` for future use.
 1. **Clone the Repository**:
 
 
-    git clone https://github.com/yourusername/housing-price-in-beijing.git
+    git clone https://github.com/AlgorithmicDhruv/housing-price-in-beijing.git
     cd housing-price-in-beijing
 
 
